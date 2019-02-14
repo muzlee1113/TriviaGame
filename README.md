@@ -1,4 +1,4 @@
-# Word-Guess-Game
+# World Wide Trivia
 This is a Trivia Game of world geography that help me practice Javascript.
 
 Getting Started and Steps
